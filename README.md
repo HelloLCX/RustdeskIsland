@@ -1,0 +1,2 @@
+# RustdeskIsland
+基于rustdesk开发的ClassIsland插件，通过插件远程控制电脑
